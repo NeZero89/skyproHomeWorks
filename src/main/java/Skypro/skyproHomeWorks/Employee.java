@@ -2,8 +2,8 @@ package Skypro.skyproHomeWorks;
 
 import java.util.Objects;
 
-public class Employee { private String lastName;
-    private String firstName;
+public class Employee { private String firstName;
+    private String lastName;
 
 
     @Override
